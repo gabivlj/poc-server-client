@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "rawmad-server", 
+    "rawmad-client",
+    "rawmad-common" 
+]
